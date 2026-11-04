@@ -1,11 +1,11 @@
 <h1 align="center">Hey there, I'm Smrutisudha Priyadarshani Behera! 👋</h1>
 
-<h3 align="center">💻 Full Stack Developer | Creative Thinker | Tech Enthusiast 🚀</h3>
+<h3 align="center">💻 Full Stack Developer | Creative Thinker & Designer | Tech Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+the+Making;Turning+Ideas+into+Reality;Building+%26+Deploying+Web+Applications;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smruti-0105&label=Profile%20views&color=0e75b6&style=flat" alt="smruti-0105" /> </p>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 ### 🌸 About Me
@@ -49,4 +49,5 @@
 
 <h3 align="center">✨ "Code. Create. Innovate. Repeat." ✨</h3>
 
-<p align="center">Thanks for visiting my profile! Let's connect and build something amazing together. 💗</p>
+<p align="center">Thanks for visiting my profile!  Let's connect and build something amazing together. 💗</p>
+<p align="center"> Stay curious, stay creative & keep coding. 🎀</p>
